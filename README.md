@@ -13,7 +13,8 @@
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg?style=flat-square)
 
-[**Live Demo**](https://dulcet-empanada-eca02a.netlify.app/) · [**Repository**](https://github.com/NSniha/BlackAi_Website)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://dulcet-empanada-eca02a.netlify.app/)
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha/BlackAi_Website)
 
 </div>
 
@@ -172,3 +173,4 @@ This project is shared publicly for portfolio and reference purposes only. Copyi
 ⭐ If you find this project useful, consider giving it a star — it helps others discover it too.
 
 </div>
+
