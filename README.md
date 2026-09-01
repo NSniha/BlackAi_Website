@@ -11,9 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-2ea44f?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg?style=flat-square)
 
-[**Live Demo**](https://dulcet-empanada-eca02a.netlify.app/) · [**Repository**](https://github.com/NSniha/BlackAi_Website) · [**Report an Issue**](https://github.com/NSniha/BlackAi_Website/issues)
+[**Live Demo**](https://dulcet-empanada-eca02a.netlify.app/) · [**Repository**](https://github.com/NSniha/BlackAi_Website)
 
 </div>
 
@@ -24,12 +24,6 @@
 **Black.ai** is a fully-built, multi-page frontend website designed for modern AI platforms, SaaS products, and technology-driven brands. It combines a premium dark UI, structured content architecture, and smooth interactive elements to deliver a credible, production-ready digital presence — built entirely with vanilla HTML, CSS, and JavaScript, with no framework overhead.
 
 The project includes a landing page, features page, pricing page, blog system, documentation system, legal pages, contact page, changelog, and a custom 404 page — making it a complete starting point for SaaS and product-focused websites.
-
----
-
-## Live Demo
-
-🔗 **[https://dulcet-empanada-eca02a.netlify.app/](https://dulcet-empanada-eca02a.netlify.app/)**
 
 ---
 
@@ -54,6 +48,10 @@ The project includes a landing page, features page, pricing page, blog system, d
 
 ## Technology Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 | Technology | Purpose |
 |---|---|
 | **HTML5** | Semantic page structure and markup |
@@ -67,6 +65,9 @@ The project intentionally avoids heavy frameworks to keep performance high, cust
 ## Dependencies
 
 This project has no build tools or package dependencies (no `npm install` required). It relies on two external resources loaded via CDN:
+
+![Ionicons](https://img.shields.io/badge/Ionicons-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white)
 
 | Dependency | Type | Usage |
 |---|---|---|
@@ -145,10 +146,7 @@ Then visit `http://localhost:5500` in your browser.
 
 ## Deployment
 
-This project is deployed on **Netlify**:
-🔗 [https://dulcet-empanada-eca02a.netlify.app/](https://dulcet-empanada-eca02a.netlify.app/)
-
-Being a static site, it can also be deployed on Vercel, GitHub Pages, or any static hosting provider by uploading the project files directly.
+The live version is hosted on **Netlify**. Being a static site, it can also be deployed on Vercel, GitHub Pages, or any other static hosting provider by uploading the project files directly.
 
 ---
 
@@ -161,9 +159,16 @@ Frontend Developer — building landing pages, SaaS UI, and business websites.
 
 ---
 
+## License
+
+© NSniha. All rights reserved.
+
+This project is shared publicly for portfolio and reference purposes only. Copying, redistributing, reselling, or using it (in whole or in part) for commercial purposes is **not permitted** without prior written consent.
+
+---
+
 <div align="center">
 
 ⭐ If you find this project useful, consider giving it a star — it helps others discover it too.
 
 </div>
-
