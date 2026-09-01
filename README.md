@@ -1,85 +1,84 @@
 <img width="1280" height="800" alt="Black-ai (1)" src="https://github.com/user-attachments/assets/42ff5dcb-542b-41dc-b1b6-2a62250b18fd" />
 
-# Black.ai Website
+<div align="center">
 
-Black.ai is a premium AI SaaS website project crafted for modern startups, software platforms, digital products, and technology-driven businesses. The website combines refined visual design, a structured frontend architecture, responsive layouts, and smooth interactive experiences to deliver a polished and credible brand presence across all devices.
+# Black.ai — Premium AI SaaS Website Template
 
-This project is built to present Black.ai as a sophisticated and forward-thinking digital product. It is designed not only to look visually impressive, but also to communicate features, workflows, pricing, documentation, legal information, updates, and brand value in a clear and professional manner.
+**A responsive, dark-themed frontend website built for AI platforms, SaaS products, and technology startups.**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Design-Responsive-2ea44f?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
+
+[**Live Demo**](https://dulcet-empanada-eca02a.netlify.app/) · [**Repository**](https://github.com/NSniha/BlackAi_Website) · [**Report an Issue**](https://github.com/NSniha/BlackAi_Website/issues)
+
+</div>
 
 ---
 
-## Project Overview
+## Overview
 
-The Black.ai website is a fully developed frontend web project created to support a modern AI brand with a premium online presence. It includes a complete set of high-value pages such as a landing page, features page, pricing page, blog system, documentation system, legal pages, contact page, changelog page, and custom error page.
+**Black.ai** is a fully-built, multi-page frontend website designed for modern AI platforms, SaaS products, and technology-driven brands. It combines a premium dark UI, structured content architecture, and smooth interactive elements to deliver a credible, production-ready digital presence — built entirely with vanilla HTML, CSS, and JavaScript, with no framework overhead.
 
-The project is intended to serve as a strong digital foundation for SaaS businesses, AI tools, workflow platforms, and product-focused technology brands that require both visual refinement and practical structure.
+The project includes a landing page, features page, pricing page, blog system, documentation system, legal pages, contact page, changelog, and a custom 404 page — making it a complete starting point for SaaS and product-focused websites.
 
 ---
 
-## Core Highlights
+## Live Demo
 
-- Premium dark-themed visual design
-- Fully responsive layout across desktop, tablet, and mobile
-- Clean and maintainable frontend codebase
-- Smooth transitions, reveal animations, and interactive UI elements
-- Structured feature presentation for modern SaaS products
-- Professional pricing sections and conversion-focused layouts
-- Blog listing and blog details system
+🔗 **[https://dulcet-empanada-eca02a.netlify.app/](https://dulcet-empanada-eca02a.netlify.app/)**
+
+---
+
+## Key Features
+
+- Premium dark-themed, fully responsive design (desktop, tablet, mobile)
+- Animated hero section with interactive dashboard-style visuals
+- Reveal-on-scroll animations and smooth UI transitions
+- Interactive dropdown navigation with mobile menu support
+- Dynamic feature showcase with tabbed content switching
+- Testimonials, partner logo marquee, and stats sections
+- Complete pricing section with conversion-focused layout
+- Blog listing and blog details pages
 - Documentation and documentation details system
-- Contact page with interactive form experience
-- Privacy Policy and Terms & Conditions pages
-- Changelog page for product and version updates
+- Contact page with interactive form UI
+- Privacy Policy, Terms & Conditions, and Changelog pages
 - Custom 404 error page
-- Reusable section-based content architecture
-- SEO-ready page structure and metadata support
-
----
-
-## Included Pages
-
-The project includes the following pages:
-
-- Home Page
-- Features Page
-- Pricing Page
-- Blog Page
-- Blog Details Page
-- Documentation Page
-- Documentation Details Page
-- Privacy Policy Page
-- Terms & Conditions Page
-- Contact Page
-- Changelog Page
-- 404 Error Page
+- SEO-ready page structure with meta tags and Open Graph support
+- Clean, reusable, section-based component architecture
 
 ---
 
 ## Technology Stack
 
-Black.ai is developed using the following technologies:
+| Technology | Purpose |
+|---|---|
+| **HTML5** | Semantic page structure and markup |
+| **CSS3** | Custom styling, layout, and responsive design (no CSS framework) |
+| **JavaScript (Vanilla)** | Navigation, interactivity, dynamic UI behavior |
 
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
-- **Ionicons**
-- **Google Fonts**
-
-The project intentionally avoids heavy frameworks in order to maintain strong performance, simpler customization, easier maintenance, and a lightweight frontend structure.
+The project intentionally avoids heavy frameworks to keep performance high, customization simple, and the codebase easy to maintain.
 
 ---
 
-## Design Philosophy
+## Dependencies
 
-The Black.ai website is designed around a premium visual language tailored for AI and SaaS brands. The interface emphasizes clean hierarchy, generous spacing, dark UI aesthetics, soft glow effects, elegant card systems, and subtle motion to create a refined and modern user experience.
+This project has no build tools or package dependencies (no `npm install` required). It relies on two external resources loaded via CDN:
 
-The design approach balances aesthetics with usability, ensuring that each section supports both visual storytelling and clear communication. This makes the website suitable for brands that want to appear credible, advanced, and professionally positioned in a competitive digital market.
+| Dependency | Type | Usage |
+|---|---|---|
+| [Ionicons](https://ionic.io/ionicons) | Icon library (CDN) | UI icons across navigation, cards, and sections |
+| [Google Fonts – Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) | Web font (CDN) | Primary typography |
 
 ---
 
 ## Project Structure
 
-```bash
-black-ai-website/
+```
+BlackAi_Website/
 │
 ├── index.html
 ├── features.html
@@ -109,4 +108,62 @@ black-ai-website/
 │   └── main.js
 │
 └── images/
-    └── all website visuals, icons, illustrations, and chart assets
+    └── website visuals, icons, and illustrations
+```
+
+---
+
+## Getting Started (Run Locally)
+
+No build tools, package managers, or installation steps are required — this is a static site.
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/NSniha/BlackAi_Website.git
+```
+
+**2. Navigate into the project folder**
+```bash
+cd BlackAi_Website
+```
+
+**3. Open the project**
+
+Open `index.html` directly in your browser, **or** serve it locally for the best experience (recommended, since some browsers restrict local file access):
+
+```bash
+# Using VS Code
+# Install the "Live Server" extension, then right-click index.html → "Open with Live Server"
+
+# Or using Python
+python -m http.server 5500
+```
+
+Then visit `http://localhost:5500` in your browser.
+
+---
+
+## Deployment
+
+This project is deployed on **Netlify**:
+🔗 [https://dulcet-empanada-eca02a.netlify.app/](https://dulcet-empanada-eca02a.netlify.app/)
+
+Being a static site, it can also be deployed on Vercel, GitHub Pages, or any static hosting provider by uploading the project files directly.
+
+---
+
+## Author
+
+**NSniha**
+Frontend Developer — building landing pages, SaaS UI, and business websites.
+
+- GitHub: [@NSniha](https://github.com/NSniha)
+
+---
+
+<div align="center">
+
+⭐ If you find this project useful, consider giving it a star — it helps others discover it too.
+
+</div>
+
